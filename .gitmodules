@@ -1,0 +1,6 @@
+[submodule "esp32_cam_mecanum"]
+	path = esp32_cam_mecanum
+	url = https://github.com/Tizio1234/esp32_cam_mecanum.git
+[submodule "nucleo_f411re_mecanum"]
+	path = nucleo_f411re_mecanum
+	url = https://github.com/Tizio1234/nucleo_f411re_mecanum.git
